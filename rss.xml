@@ -1,0 +1,24 @@
+<?XML version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+   <title>MS FASHION</title>
+   <link></link>
+   <description>This is the website of the famous italian fashion brand.</description>
+   <language>english</language>
+       <item>
+	      <title>New collection- summer</title>
+          <link></link>
+          <description>The summer collection delighted customers...</description>
+	   </item>
+	   <item>
+	      <title>New collection- fall favorites</title>
+          <link></link>
+          <description>Favorite autumn pieces found their way to Europe...</description>
+	   </item>
+	   <item>
+	      <title>best-selling in December</title>
+          <link></link>
+          <description>These are the best-selling pieces of clothing in December...</description>
+	   </item>
+</channel>
+</rss>
